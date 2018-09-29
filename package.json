@@ -1,9 +1,9 @@
 {
-  "name": "react-component-base",
-  "version": "0.0.2",
-  "description": "React Component Base.",
+  "name": "react-cf-component-account-user-logout",
+  "version": "0.0.1",
+  "description": "Account - User - Logout",
   "main": "index.js",
-  "repository": "https://github.com/js-ni/react-component-base.git",
+  "repository": "https://github.com/control-fitness/react-cf-component-account-user-logout.git",
   "author": "Paulo McNally <paulomcnally@gmail.com>",
   "license": "MIT",
   "files": [
@@ -17,10 +17,12 @@
     "dist": "yarn run clean && yarn run build"
   },
   "dependencies": {
+    "js-cookie": "^2.2.0",
     "prop-types": "^15.6.2",
     "react": "^16.4.1",
+    "react-cf-helper-i18n": "^0.1.2",
     "react-dom": "^16.4.1",
-    "styled-components": "^3.3.3"
+    "semantic-ui-react": "^0.82.3"
   },
   "devDependencies": {
     "babel-cli": "^6.26.0",

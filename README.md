@@ -1,10 +1,12 @@
-# react-component-base
+# react-cf-component-account-user-logout
 
-React Component Base.
+Account - User - Logout.
+
+![Preview](https://i.imgur.com/Sc58zCx.png)
 
 Clone repository
 
-    $ git clone https://github.com/js-ni/react-component-base.git
+    $ git clone https://github.com/control-fitness/react-cf-component-account-user-logout.git
 
 Install dependencies
 

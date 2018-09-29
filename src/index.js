@@ -1,3 +1,3 @@
-import Base from './components/Base';
+import Logout from './components/Logout';
 
-export default Base;
+export default Logout;
